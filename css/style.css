@@ -110,6 +110,10 @@ p li{
   margin-bottom: 0.5em;
 }
 
+h3{
+  color: red;
+}
+
 iframe{
   border-width: 0px;
 }
