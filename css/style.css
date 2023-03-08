@@ -109,3 +109,7 @@ h1{
 p li{
   margin-bottom: 0.5em;
 }
+
+iframe{
+  border-width: 0px;
+}
